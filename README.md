@@ -1,20 +1,20 @@
-# Analisi Recensioni Prodotto Amazon
+# Analysis of Reviews of a Product on Amazon.uk
 
 ## Info
-Scraping Web delle recensioni di un prodotto (Nintendo Switch) presente sul sito di Amazon.uk, e la loro analisi. 
-L’estrazione dei dati risale al 22/05/2021.
+Web scraping of reviews of a product (Nintendo Switch) found on the Amazon.uk website, and their analysis. 
+The data extraction dates back to 5/22/2021.
 
-* Relazione progetto: Analisi_Recensioni_Prodotto_Amazon.pdf
-* Dataset usato per il progetto: ninentendo_reviws.csv 
-* Codice progetto: analysis_code.r
+* Project report: Analisi_Recensioni_Prodotto_Amazon.pdf
+* Dataset used for the project: ninentendo_reviws.csv 
+* Project Code: analysis_code.r
 
 
-## Analisi Svolte
-* Analisi Generali
-* Frequenza delle Parole
+## Unfolded Analysis.
+* General Analysis
+* Frequency of Words
 * Topic Modelling
 * Sentiment Analysis
-* Analisi n-grammi
+* n-gram analysis
 
 
 
